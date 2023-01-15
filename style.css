@@ -3,6 +3,10 @@ a {
     color: violet;
     text-decoration: none;
 }
+img{
+    width: 300px;
+    height: 388px;
+}
 a:hover{
     text-decoration: underline;
     color: rgb(255, 0, 255);
