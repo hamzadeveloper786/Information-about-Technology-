@@ -1,0 +1,32 @@
+a {
+    font-weight: normal;
+    color: violet;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color: rgb(255, 0, 255);
+}
+p{
+    font-family: Arial, Verdana, sans-serif;
+ line-height: 1.4em;
+ color: #665544;
+}
+
+
+h1 {
+    color: royalblue;
+    text-shadow: 2px 2px 3px slategrey;
+    font-family: Georgia, Times, serif;
+    font-size: 250%;
+    padding-bottom: 10px;
+}
+b{
+    font-family: "Gill Sans", Arial, sans-serif;
+    font-size: 150%;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+}
+.wikipedia{
+    float: right;
+}
